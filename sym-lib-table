@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name cardEmulator-rescue)(type Legacy)(uri ${KIPRJMOD}/cardEmulator-rescue.lib)(options "")(descr ""))
+)
