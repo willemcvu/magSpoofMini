@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:cardEmulator-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -835,12 +835,12 @@ F 3 "" H 2700 4550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L cardEmulator-rescue:TPS613222A-CUSTOM_IC U1
+L cardEmulator-rescue:TPS613222A-DBV U1
 U 1 1 5BCCC336
 P 2700 4300
 F 0 "U1" H 2700 4625 50  0000 C CNN
 F 1 "TPS613222A" H 2700 4534 50  0000 C CNN
-F 2 "Package_TO_SOT_SMD:SOT-23" H 2700 4300 50  0001 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-5" H 2700 4300 50  0001 C CNN
 F 3 "" H 2700 4300 50  0001 C CNN
 	1    2700 4300
 	1    0    0    -1  
